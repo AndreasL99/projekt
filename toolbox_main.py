@@ -81,7 +81,7 @@ def crypto_tool_menu():
         print("1. Generera nyckel")
         print("2. Kryptera en fil")
         print("3. Dekryptera en fil")
-        print("4. Spara textfil")
+        print("4. Skapa textfil")
         print("5. Tillbaka")
         
         choice = input("Välj ett alternativ: ")
